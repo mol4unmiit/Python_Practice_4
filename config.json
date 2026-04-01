@@ -1,0 +1,6 @@
+{
+    "database": "mydb",
+    "host": "localhost",
+    "port": 5432,
+    "use_ssl": false
+}
